@@ -1,2 +1,6 @@
-name = input("Hi, can I have your name? ")
-print('Hello ' + name)
+full_name = input('Can I have your full name? ')
+age = input('What is your age? ')
+hobby = input('What is your favorite activity or hobby? ')
+print('Hello ' + full_name)
+print('Your age is ' + age)
+print('Your hobby is ' + hobby)
