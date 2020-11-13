@@ -1,6 +1,6 @@
 full_name = input('Can I have your full name? ')
 age = input('What is your age? ')
 hobby = input('What is your favorite activity or hobby? ')
-print('Hello ' + full_name)
+print('Hello ' + full_name.title())
 print('Your age is ' + age)
-print('Your hobby is ' + hobby)
+print('Your hobby is ' + hobby.title())
